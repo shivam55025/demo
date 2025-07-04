@@ -2,3 +2,7 @@ hello these is feature 1
 
 
 new feature add from new branch
+
+
+
+features added by branch 3
