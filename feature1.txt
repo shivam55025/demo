@@ -2,3 +2,7 @@ hello these is feature 1
 
 
 new feature add from new branch
+
+
+
+! hi i am lering how to backup and revert command
